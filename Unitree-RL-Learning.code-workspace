@@ -1,6 +1,11 @@
 {
   "folders": [
-    { "path": "." }
+    {
+      "path": "."
+    },
+    {
+      "path": "../unitree_rl_gym"
+    }
   ],
   "settings": {
     "files.exclude": {
