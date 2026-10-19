@@ -15,9 +15,10 @@ This project does not require a physical robot. Real-robot deployment is an opti
 1. Read [the study roadmap](docs/learning-roadmap.md).
 2. For the first code reading session, follow the [official code map](docs/official-code-map.md).
 3. Continue with the [PPO training loop lesson](docs/lesson-02-ppo-training-loop.md), [baseline/evaluation lesson](docs/lesson-03-baseline-and-evaluation.md), and [official training pipeline lesson](docs/lesson-04-official-training-pipeline.md).
-4. Read [the environment setup notes](docs/environment-setup.md) before renting a GPU server.
-5. Follow [the official Unitree RL Gym repository](https://github.com/unitreerobotics/unitree_rl_gym) and its setup guide. Keep that upstream repository separate from this notes-and-experiments project.
-6. Copy [the experiment template](experiments/templates/experiment.md) for every run.
+4. See the [comparison of Unitree's Isaac Gym and Isaac Lab implementations](docs/unitree_rl_gym-vs-rl_lab.md) before choosing a training server.
+5. Read [the environment setup notes](docs/environment-setup.md) before renting a GPU server.
+6. Follow [the official Unitree RL Gym repository](https://github.com/unitreerobotics/unitree_rl_gym) and its setup guide. Keep that upstream repository separate from this notes-and-experiments project.
+7. Copy [the experiment template](experiments/templates/experiment.md) for every run.
 
 ## Recommended first target
 
