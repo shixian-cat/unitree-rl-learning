@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/*.local.json
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+logs/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.mp4
