@@ -14,9 +14,10 @@ This project does not require a physical robot. Real-robot deployment is an opti
 
 1. Read [the study roadmap](docs/learning-roadmap.md).
 2. For the first code reading session, follow the [official code map](docs/official-code-map.md).
-3. Read [the environment setup notes](docs/environment-setup.md) before renting a GPU server.
-4. Follow [the official Unitree RL Gym repository](https://github.com/unitreerobotics/unitree_rl_gym) and its setup guide. Keep that upstream repository separate from this notes-and-experiments project.
-5. Copy [the experiment template](experiments/templates/experiment.md) for every run.
+3. Continue with the [PPO training loop lesson](docs/lesson-02-ppo-training-loop.md) and [baseline/evaluation lesson](docs/lesson-03-baseline-and-evaluation.md).
+4. Read [the environment setup notes](docs/environment-setup.md) before renting a GPU server.
+5. Follow [the official Unitree RL Gym repository](https://github.com/unitreerobotics/unitree_rl_gym) and its setup guide. Keep that upstream repository separate from this notes-and-experiments project.
+6. Copy [the experiment template](experiments/templates/experiment.md) for every run.
 
 ## Recommended first target
 
