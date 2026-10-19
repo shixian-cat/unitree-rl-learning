@@ -6,7 +6,7 @@
 
 ## Code provenance
 - Learning project commit:
-- Unitree RL Gym commit:
+- Unitree RL Lab commit:
 
 ## Environment
 - Robot task:

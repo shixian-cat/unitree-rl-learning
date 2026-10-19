@@ -4,7 +4,7 @@
       "path": "."
     },
     {
-      "path": "../unitree_rl_gym"
+      "path": "../unitree_rl_lab"
     }
   ],
   "settings": {
